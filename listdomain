@@ -12,6 +12,11 @@
 #
 # ===============================================================
 
+
+192.168.1.240 docker.kapitmas.com
+192.168.1.240 docker.kapitmas.local
+192.168.1.240 chat.kapitmas.com
+192.168.1.240 chat.kapitmas.local
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
