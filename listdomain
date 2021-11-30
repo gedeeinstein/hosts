@@ -13,13 +13,15 @@
 # ===============================================================
 
 
-192.168.1.240 docker.kapitmas.com
-192.168.1.240 docker.kapitmas.local
-192.168.1.240 chat.kapitmas.com
-192.168.1.240 chat.kapitmas.local
+#192.168.1.240 docker.kapitmas.com
+#192.168.1.240 docker.kapitmas.local
+#192.168.1.240 chat.kapitmas.com
+#192.168.1.240 chat.kapitmas.local
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
+
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
@@ -42,6 +44,7 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 167.88.14.147
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 n2019cov.000webhostapp.com
