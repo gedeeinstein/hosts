@@ -4990,8 +4990,6 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 filter.ezmob.com
 0.0.0.0 xml.ezmob.com
-0.0.0.0 an.facebook.com
-0.0.0.0 pixel.facebook.com
 0.0.0.0 fam-ad.com
 0.0.0.0 img.fam-ad.com
 0.0.0.0 fastapi.net
@@ -44402,7 +44400,6 @@
 0.0.0.0 ads.ahds.ac.uk
 0.0.0.0 ads.aintitcool.com
 0.0.0.0 ads.airamericaradio.com
-0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.al.com
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ads.allsites.com
@@ -46770,7 +46767,6 @@
 0.0.0.0 creative.ad121m.com
 0.0.0.0 creative.ad131m.com
 0.0.0.0 creative.adshuffle.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.medianexusnetwork.com
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creatrixads.com
@@ -91819,7 +91815,6 @@
 0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 cdn3.mobile.contentdef.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
-0.0.0.0 graph.instagram.com
 0.0.0.0 push.content-ad.net
 0.0.0.0 tracking-comm.swiggy.com
 0.0.0.0 adservice.google.com.kw

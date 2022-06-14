@@ -79147,7 +79147,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.ahds.ac.uk
 0.0.0.0 ads.aintitcool.com
 0.0.0.0 ads.airamericaradio.com
-0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.al.com
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ads.allsites.com
@@ -81508,7 +81507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.ad121m.com
 0.0.0.0 creative.ad131m.com
 0.0.0.0 creative.adshuffle.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.medianexusnetwork.com
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creatrixads.com
