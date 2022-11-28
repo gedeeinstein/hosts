@@ -85,8 +85,8 @@
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vms.boldchat.com
 0.0.0.0 vt.myvisualiq.net
-0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 web.vortex.data.msn.com
+
+
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.increaserev.com
@@ -3512,13 +3512,13 @@
 0.0.0.0 alert.mac-notification.com
 0.0.0.0 alpha.easy-hit-counters.com
 0.0.0.0 amateur.xxxcounter.com
-0.0.0.0 amer.hops.glbdns.microsoft.com
-0.0.0.0 amer.rel.msn.com
+
+
 0.0.0.0 an.mlb.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.global.sky.com
-0.0.0.0 analytics.msnbc.msn.com
+
 0.0.0.0 analytics.myfinances.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.prx.org
@@ -3529,7 +3529,7 @@
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antivirus-message.com
-0.0.0.0 apac.rel.msn.com
+
 0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.behavioralengine.com
 0.0.0.0 api.bizographics.com
@@ -3976,7 +3976,7 @@
 0.0.0.0 ehg.fedex.com
 0.0.0.0 eitbglobal.ojdinteractiva.com
 0.0.0.0 email.positionly.com
-0.0.0.0 emea.rel.msn.com
+
 0.0.0.0 engine.cmmeglobal.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 entry-stats.huffingtonpost.com
@@ -4950,7 +4950,7 @@
 0.0.0.0 tracking.mailtracker.in
 0.0.0.0 tracking.marketviaemail.net
 0.0.0.0 tracking.motleyfool.com
-0.0.0.0 tracking.msadcenter.msn.com
+
 0.0.0.0 tracking.murdoog.com
 0.0.0.0 tracking.myunidays.com
 0.0.0.0 tracking.nesox.com
@@ -5017,7 +5017,7 @@
 0.0.0.0 u810.15.spylog.com
 0.0.0.0 u920.31.spylog.com
 0.0.0.0 u977.40.spylog.com
-0.0.0.0 udc.msn.com
+
 0.0.0.0 uip.semasio.net
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.sitestat.com
@@ -8997,27 +8997,7 @@
 0.0.0.0 zm-banks.com
 0.0.0.0 zm-weather.com
 0.0.0.0 zsports-info.com
-#</pegasus-spyware-sites>
 
-#<ad-sites>
-#<maybe-ads>
-#0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
-#0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
-#0.0.0.0 click.linksynergy.com
-#0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
-#0.0.0.0 lads.myspace.com		# blocks myspace media/video players
-#0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
-#0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
-#0.0.0.0 www.apmebf.com		#qksrv
-#0.0.0.0 www.tkqlhce.com		#qksrv
-#0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
-#0.0.0.0 transfer.go.com		#may interfere with Disney websites
-#</maybe-ads>
-
-# ads
-#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 0101011.com
 0.0.0.0 0427d7.se
 0.0.0.0 0d79ed.r.axf8.net
@@ -9163,7 +9143,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
+
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.tadd.react2media.com
@@ -12178,22 +12158,22 @@
 0.0.0.0 c.mttwtrack.com
 0.0.0.0 c.my.msn.com
 0.0.0.0 c.ninemsn.com.au
-0.0.0.0 c.nl.msn.com
-0.0.0.0 c.no.msn.com
+#0.0.0.0 c.nl.msn.com
+#0.0.0.0 c.no.msn.com
 0.0.0.0 c.novostimira.biz
-0.0.0.0 c.ph.msn.com
-0.0.0.0 c.prodigy.msn.com
-0.0.0.0 c.pt.msn.com
-0.0.0.0 c.ru.msn.com
-0.0.0.0 c.se.msn.com
-0.0.0.0 c.seznam.cz
-0.0.0.0 c.sg.msn.com
+#0.0.0.0 c.ph.msn.com
+#0.0.0.0 c.prodigy.msn.com
+# 0.0.0.0 c.pt.msn.com
+# 0.0.0.0 c.ru.msn.com
+# 0.0.0.0 c.se.msn.com
+ 0.0.0.0 c.seznam.cz
+# 0.0.0.0 c.sg.msn.com
 0.0.0.0 c.silvinst.com
-0.0.0.0 c.th.msn.com
-0.0.0.0 c.tr.msn.com
-0.0.0.0 c.tw.msn.com
-0.0.0.0 c.uk.msn.com
-0.0.0.0 c.za.msn.com
+#0.0.0.0 c.th.msn.com
+#0.0.0.0 c.tr.msn.com
+#0.0.0.0 c.tw.msn.com
+#0.0.0.0 c.uk.msn.com
+#0.0.0.0 c.za.msn.com
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.popads.net
@@ -14632,12 +14612,12 @@
 0.0.0.0 mobile-browser.me
 0.0.0.0 mobile.bet.pt
 0.0.0.0 mobile.juicyads.com
-0.0.0.0 mobileads.msn.com
+
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
-0.0.0.0 mobileleads.msn.com
+
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
@@ -15570,7 +15550,7 @@
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
 0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
+
 0.0.0.0 radaronline.advertserve.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
@@ -16201,7 +16181,7 @@
 0.0.0.0 spotxchange.com
 0.0.0.0 sq2trk2.com
 0.0.0.0 srs.targetpoint.com
-0.0.0.0 srtb.msn.com
+
 0.0.0.0 srv.bebi.com
 0.0.0.0 srv.juiceadv.com
 0.0.0.0 srv.sayyac.com
@@ -20314,31 +20294,28 @@
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 b.ads1.msn.com
+
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 c.atdmt.com
-0.0.0.0 c.msn.com
+
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 feedback.microsoft-hohm.com
-0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
-0.0.0.0 h1.msn.com
 0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 live.rads.msn.com
+
 0.0.0.0 m.adnxs.com
-0.0.0.0 msnbot-65-55-108-23.search.msn.com
+
 0.0.0.0 msntest.serving-sys.com
-0.0.0.0 preview.msn.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
+
+
 0.0.0.0 sO.2mdn.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
-0.0.0.0 statsfe2.ws.microsoft.com
+
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 wes.df.telemetry.microsoft.com
+
 0.0.0.0	a8.01cloud.jp
 0.0.0.0	a8.cyclemarket.jp
 0.0.0.0	a8.denwa-hikari.com
@@ -26289,7 +26266,7 @@
 0.0.0.0	smeasurement.fcc-fac.ca
 0.0.0.0	smeasurement.infiniti.ca
 0.0.0.0	smeasurement.nissan.ca
-0.0.0.0	smetric.ads.microsoft.com
+
 0.0.0.0	smetric.bahamabreeze.com
 0.0.0.0	smetric.betway.com
 0.0.0.0	smetric.biogen.com
@@ -30185,7 +30162,7 @@
 0.0.0.0	hawk.makroskop.eu
 0.0.0.0	hedgehog.fightforthefuture.org
 0.0.0.0	heron.notability.com
-0.0.0.0	hornet.thunderbite.com
+
 0.0.0.0	horse.rmrk.app
 0.0.0.0	horse.vibecreativemarketing.com
 0.0.0.0	hoverfly.dailyblocks.tv

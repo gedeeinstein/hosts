@@ -1,35 +1,4 @@
-# Entries: 101,491
-# As of 2021-08-29 10:06:48 UTC
-# generated using github.com/Laicure/HostsZ
-
-# Sources: 21
-# [1,869] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# [8,201] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-# [14,801] https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# [1,386] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# [1,070] https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-# [6] https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt
-# [8,730] https://winhelp2002.mvps.org/hosts.txt
-# [3,226] https://orca.pet/notonmyshift/hosts.txt
-# [37] https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
-# [331] https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
-# [16,926] https://someonewhocares.org/hosts/zero/hosts
-# [1,730] https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-# [1,536] https://urlhaus.abuse.ch/downloads/hostfile/
-# [3,622] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
-# [382] https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# [3,548] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# [1,447] https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
-# [2,701] https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-# [2,736] https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# [34] https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# [42,111] https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-
-# Loopbacks
 127.0.0.1 localhost
-::1 localhost
-
-# Start
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 n2019cov.000webhostapp.com
@@ -1079,10 +1048,10 @@
 0.0.0.0 enabler.datalake.mediaset.it
 0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 medsource.top
-0.0.0.0 v10c.events.data.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.co.id
+0.0.0.0 sqm.telemetry.microsoft.co.id
+0.0.0.0 telecommand.telemetry.microsoft.co.id
+0.0.0.0 watson.telemetry.microsoft.co.id
 0.0.0.0 ns1.microsoftonlines.net
 0.0.0.0 ns2.microsoftonlines.net
 0.0.0.0 update.microsoftonlines.net
@@ -6499,8 +6468,8 @@
 0.0.0.0 dsp.send.microadinc.com
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 ssp.send.microadinc.com
-0.0.0.0 bingads.microsoft.com
-0.0.0.0 advertise.bingads.microsoft.com
+0.0.0.0 bingads.microsoft.co.id
+0.0.0.0 advertise.bingads.microsoft.co.id
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 client.midosoo.com
 0.0.0.0 minimob.com
@@ -6895,14 +6864,14 @@
 0.0.0.0 r.mradx.net
 0.0.0.0 r0.mradx.net
 0.0.0.0 msads.net
-0.0.0.0 ads.msn.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 b.ads1.msn.com
-0.0.0.0 ads2.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 mobileads.msn.com
-0.0.0.0 rads.msn.com
-0.0.0.0 srtb.msn.com
+0.0.0.0 ads.msn.co.id
+0.0.0.0 a.ads1.msn.co.id
+0.0.0.0 b.ads1.msn.co.id
+0.0.0.0 ads2.msn.co.id
+0.0.0.0 a.ads2.msn.co.id
+0.0.0.0 mobileads.msn.co.id
+0.0.0.0 rads.msn.co.id
+0.0.0.0 srtb.msn.co.id
 0.0.0.0 sdkconf.msstatic.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtrcss.com
@@ -12120,7 +12089,7 @@
 0.0.0.0 omni.dispatch.com
 0.0.0.0 omni.feeln.com
 0.0.0.0 omni.hallmarkecards.com
-0.0.0.0 omni.ninemsn.com.au
+0.0.0.0 omni.ninemsn.co.id.au
 0.0.0.0 omni.pemco.com
 0.0.0.0 omni.skinmedica.com
 0.0.0.0 omnis.skinmedica.com
@@ -12318,7 +12287,7 @@
 0.0.0.0 somn.sonypictures.com
 0.0.0.0 somni.amsurg.com
 0.0.0.0 somni.cineplex.com
-0.0.0.0 somni.ninemsn.com.au
+0.0.0.0 somni.ninemsn.co.id.au
 0.0.0.0 somni.pemco.com
 0.0.0.0 somni.vikingrivercruises.com
 0.0.0.0 somniture.yodlee.com
@@ -14320,7 +14289,7 @@
 0.0.0.0 smeasurement.fcc-fac.ca
 0.0.0.0 smeasurement.infiniti.ca
 0.0.0.0 smeasurement.nissan.ca
-0.0.0.0 smetric.ads.microsoft.com
+0.0.0.0 smetric.ads.microsoft.co.id
 0.0.0.0 smetric.bahamabreeze.com
 0.0.0.0 smetric.betway.com
 0.0.0.0 smetric.biogen.com
@@ -30364,7 +30333,7 @@
 0.0.0.0 abs.proxistore.com
 0.0.0.0 hits.convergetrack.com
 0.0.0.0 ads.worddictionary.co.uk
-0.0.0.0 ads.ninemsn.com.au
+0.0.0.0 ads.ninemsn.co.id.au
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-bg.ads.httpool.com
 0.0.0.0 relay-cz.ads.httpool.com
@@ -30913,7 +30882,7 @@
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 a.global.msads.net
 0.0.0.0 global.msads.net
-0.0.0.0 ads1.msn.com
+0.0.0.0 ads1.msn.co.id
 0.0.0.0 cdn.promo.pimproll.com
 0.0.0.0 cdn.g.promosrv.com
 0.0.0.0 rd-direct.com
@@ -31066,8 +31035,8 @@
 0.0.0.0 topads.rrstar.com
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 iact.atdmt.com
-0.0.0.0 flex.msn.com
-0.0.0.0 otf.msn.com
+0.0.0.0 flex.msn.co.id
+0.0.0.0 otf.msn.co.id
 0.0.0.0 trafficgateway.research-int.se
 0.0.0.0 my.trackjs.com
 0.0.0.0 image.atdmt.com
@@ -31080,8 +31049,8 @@
 0.0.0.0 www.bidclix.net
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 www.deepmetrix.com
-0.0.0.0 adsyndication.msn.com
-0.0.0.0 c.no.msn.com
+0.0.0.0 adsyndication.msn.co.id
+0.0.0.0 c.no.msn.co.id
 0.0.0.0 log.newsvine.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 mt.adquality.ch
@@ -31098,17 +31067,17 @@
 0.0.0.0 a.ads1.msads.net
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 analytics.msn.com
-0.0.0.0 ads.eu.msn.com
-0.0.0.0 images.adsyndication.msn.com
-0.0.0.0 analytics.msnbc.msn.com
-0.0.0.0 blu.mobileads.msn.com
-0.0.0.0 col.mobileads.msn.com
-0.0.0.0 popup.msn.com
-0.0.0.0 analytics.r.msn.com
-0.0.0.0 0.r.msn.com
-0.0.0.0 rmads.msn.com
-0.0.0.0 rmads.eu.msn.com
+0.0.0.0 analytics.msn.co.id
+0.0.0.0 ads.eu.msn.co.id
+0.0.0.0 images.adsyndication.msn.co.id
+0.0.0.0 analytics.msnbc.msn.co.id
+0.0.0.0 blu.mobileads.msn.co.id
+0.0.0.0 col.mobileads.msn.co.id
+0.0.0.0 popup.msn.co.id
+0.0.0.0 analytics.r.msn.co.id
+0.0.0.0 0.r.msn.co.id
+0.0.0.0 rmads.msn.co.id
+0.0.0.0 rmads.eu.msn.co.id
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 msn.serving-sys.com
 0.0.0.0 click.atdmt.com
@@ -38331,7 +38300,7 @@
 0.0.0.0 u.o0bc.com
 0.0.0.0 userreport.com
 0.0.0.0 vitals.vercel-insights.com
-0.0.0.0 web.vortex.data.msn.com
+0.0.0.0 web.vortex.data.msn.co.id
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.increaserev.com
@@ -38795,8 +38764,8 @@
 0.0.0.0 alert.mac-notification.com
 0.0.0.0 alpha.easy-hit-counters.com
 0.0.0.0 amateur.xxxcounter.com
-0.0.0.0 amer.hops.glbdns.microsoft.com
-0.0.0.0 amer.rel.msn.com
+0.0.0.0 amer.hops.glbdns.microsoft.co.id
+0.0.0.0 amer.rel.msn.co.id
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.myfinances.com
@@ -38807,7 +38776,7 @@
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antivirus-message.com
-0.0.0.0 apac.rel.msn.com
+0.0.0.0 apac.rel.msn.co.id
 0.0.0.0 api.behavioralengine.com
 0.0.0.0 api.bizographics.com
 0.0.0.0 api.murdoog.com
@@ -39155,7 +39124,7 @@
 0.0.0.0 ehg.fedex.com
 0.0.0.0 eitbglobal.ojdinteractiva.com
 0.0.0.0 email.positionly.com
-0.0.0.0 emea.rel.msn.com
+0.0.0.0 emea.rel.msn.co.id
 0.0.0.0 engine.cmmeglobal.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 entry-stats.huffingtonpost.com
@@ -39910,7 +39879,7 @@
 0.0.0.0 tracking.mailtracker.in
 0.0.0.0 tracking.marketviaemail.net
 0.0.0.0 tracking.motleyfool.com
-0.0.0.0 tracking.msadcenter.msn.com
+0.0.0.0 tracking.msadcenter.msn.co.id
 0.0.0.0 tracking.murdoog.com
 0.0.0.0 tracking.myunidays.com
 0.0.0.0 tracking.nesox.com
@@ -39968,7 +39937,7 @@
 0.0.0.0 u810.15.spylog.com
 0.0.0.0 u920.31.spylog.com
 0.0.0.0 u977.40.spylog.com
-0.0.0.0 udc.msn.com
+0.0.0.0 udc.msn.co.id
 0.0.0.0 uip.semasio.net
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.sitestat.com
@@ -40465,7 +40434,7 @@
 0.0.0.0 hellwert.biz
 0.0.0.0 helpmedb.com
 0.0.0.0 hieruu.apicultoresweb.com
-0.0.0.0 himicrosoft.com
+0.0.0.0 himicrosoft.co.id
 0.0.0.0 hintonsfeetred.info
 0.0.0.0 hireproplus.com
 0.0.0.0 honouncil.info
@@ -40619,8 +40588,8 @@
 0.0.0.0 metcoc5cm.clarent.com
 0.0.0.0 metedbuenge.info
 0.0.0.0 mfkmyve.retrocoder.org
-0.0.0.0 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
-0.0.0.0 microsoft.com-msoft52.info
+0.0.0.0 microsoft.co.id-it2-dye1.premi-fedelta-degli-utenti.us
+0.0.0.0 microsoft.co.id-msoft52.info
 0.0.0.0 microsoftsecurity-experts7565.xyz
 0.0.0.0 microsoftsupport.com-support0206.info
 0.0.0.0 microsoftsupport.xyz
@@ -43669,7 +43638,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
+0.0.0.0 a.rad.msn.co.id
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.tadd.react2media.com
@@ -45998,7 +45967,7 @@
 0.0.0.0 b.a2gw.com
 0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.admob.com
-0.0.0.0 b.ads2.msn.com
+0.0.0.0 b.ads2.msn.co.id
 0.0.0.0 b.am15.net
 0.0.0.0 b.as-us.falkag.net
 0.0.0.0 b.company-target.com
@@ -46007,7 +45976,7 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
-0.0.0.0 b.rad.msn.com
+0.0.0.0 b.rad.msn.co.id
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1.adbrite.com
 0.0.0.0 b1.azjmp.com
@@ -46309,54 +46278,54 @@
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am10.ru
 0.0.0.0 c.anytrx.com
-0.0.0.0 c.ar.msn.com
+0.0.0.0 c.ar.msn.co.id
 0.0.0.0 c.as-us.falkag.net
-0.0.0.0 c.at.msn.com
+0.0.0.0 c.at.msn.co.id
 0.0.0.0 c.baidu.com
-0.0.0.0 c.be.msn.com
+0.0.0.0 c.be.msn.co.id
 0.0.0.0 c.bebi.com
 0.0.0.0 c.blogads.com
-0.0.0.0 c.br.msn.com
-0.0.0.0 c.ca.msn.com
-0.0.0.0 c.cl.msn.com
+0.0.0.0 c.br.msn.co.id
+0.0.0.0 c.ca.msn.co.id
+0.0.0.0 c.cl.msn.co.id
 0.0.0.0 c.company-target.com
-0.0.0.0 c.de.msn.com
-0.0.0.0 c.dk.msn.com
+0.0.0.0 c.de.msn.co.id
+0.0.0.0 c.dk.msn.co.id
 0.0.0.0 c.dynad.net
 0.0.0.0 c.eblastengine.com
-0.0.0.0 c.es.msn.com
-0.0.0.0 c.fi.msn.com
-0.0.0.0 c.fr.msn.com
-0.0.0.0 c.gr.msn.com
-0.0.0.0 c.hk.msn.com
-0.0.0.0 c.id.msn.com
-0.0.0.0 c.ie.msn.com
-0.0.0.0 c.il.msn.com
+0.0.0.0 c.es.msn.co.id
+0.0.0.0 c.fi.msn.co.id
+0.0.0.0 c.fr.msn.co.id
+0.0.0.0 c.gr.msn.co.id
+0.0.0.0 c.hk.msn.co.id
+0.0.0.0 c.id.msn.co.id
+0.0.0.0 c.ie.msn.co.id
+0.0.0.0 c.il.msn.co.id
 0.0.0.0 c.imedia.cz
-0.0.0.0 c.in.msn.com
-0.0.0.0 c.it.msn.com
-0.0.0.0 c.jp.msn.com
-0.0.0.0 c.latam.msn.com
+0.0.0.0 c.in.msn.co.id
+0.0.0.0 c.it.msn.co.id
+0.0.0.0 c.jp.msn.co.id
+0.0.0.0 c.latam.msn.co.id
 0.0.0.0 c.lomadee.com
 0.0.0.0 c.media-dl.co
 0.0.0.0 c.mttwtrack.com
-0.0.0.0 c.my.msn.com
-0.0.0.0 c.ninemsn.com.au
-0.0.0.0 c.nl.msn.com
+0.0.0.0 c.my.msn.co.id
+0.0.0.0 c.ninemsn.co.id.au
+0.0.0.0 c.nl.msn.co.id
 0.0.0.0 c.novostimira.biz
-0.0.0.0 c.ph.msn.com
-0.0.0.0 c.prodigy.msn.com
-0.0.0.0 c.pt.msn.com
-0.0.0.0 c.ru.msn.com
-0.0.0.0 c.se.msn.com
+0.0.0.0 c.ph.msn.co.id
+0.0.0.0 c.prodigy.msn.co.id
+0.0.0.0 c.pt.msn.co.id
+0.0.0.0 c.ru.msn.co.id
+0.0.0.0 c.se.msn.co.id
 0.0.0.0 c.seznam.cz
-0.0.0.0 c.sg.msn.com
+0.0.0.0 c.sg.msn.co.id
 0.0.0.0 c.silvinst.com
-0.0.0.0 c.th.msn.com
-0.0.0.0 c.tr.msn.com
-0.0.0.0 c.tw.msn.com
-0.0.0.0 c.uk.msn.com
-0.0.0.0 c.za.msn.com
+0.0.0.0 c.th.msn.co.id
+0.0.0.0 c.tr.msn.co.id
+0.0.0.0 c.tw.msn.co.id
+0.0.0.0 c.uk.msn.co.id
+0.0.0.0 c.za.msn.co.id
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c11370896.c.youradexchange.com
@@ -47020,7 +46989,7 @@
 0.0.0.0 ds.onet.pl
 0.0.0.0 dt.linkpulse.com
 0.0.0.0 dtm.advertising.com
-0.0.0.0 dub.mobileads.msn.com
+0.0.0.0 dub.mobileads.msn.co.id
 0.0.0.0 dy.admerize.be
 0.0.0.0 dylanwong.com
 0.0.0.0 dyn-downloads.com
@@ -47441,7 +47410,7 @@
 0.0.0.0 gem.pl
 0.0.0.0 general-lcfd.com
 0.0.0.0 geniusdisplay.com
-0.0.0.0 geo-st-microsoft.com
+0.0.0.0 geo-st-microsoft.co.id
 0.0.0.0 geo.precisionclick.com
 0.0.0.0 geoads.com
 0.0.0.0 geoads.osdn.com
@@ -48508,7 +48477,7 @@
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
-0.0.0.0 mobileleads.msn.com
+0.0.0.0 mobileleads.msn.co.id
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
@@ -48550,7 +48519,7 @@
 0.0.0.0 ms-break.com
 0.0.0.0 ms-debug-services.com
 0.0.0.0 ms-downloading.com
-0.0.0.0 ms-en-microsoft.com
+0.0.0.0 ms-en-microsoft.co.id
 0.0.0.0 ms-global-store.com
 0.0.0.0 ms-home-live.com
 0.0.0.0 ms-home-store.com
@@ -49376,7 +49345,7 @@
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
 0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
+0.0.0.0 rad.msn.co.id
 0.0.0.0 radaronline.advertserve.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
@@ -53778,18 +53747,18 @@
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
-0.0.0.0 h1.msn.com
+0.0.0.0 h1.msn.co.id
 0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 live.rads.msn.com
-0.0.0.0 msnbot-65-55-108-23.search.msn.com
-0.0.0.0 preview.msn.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 live.rads.msn.co.id
+0.0.0.0 msnbot-65-55-108-23.search.msn.co.id
+0.0.0.0 preview.msn.co.id
+0.0.0.0 reports.wes.df.telemetry.microsoft.co.id
 0.0.0.0 so.2mdn.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
-0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.co.id
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.co.id
 0.0.0.0 100234.advision-adnw.jp
 0.0.0.0 100291.adnico.jp
 0.0.0.0 100602.advision-adnw.jp
@@ -53979,7 +53948,7 @@
 0.0.0.0 ads.speead.jp
 0.0.0.0 ads.sprout-ad.com
 0.0.0.0 ads.uuuu.link
-0.0.0.0 ads1.jp.msn.com
+0.0.0.0 ads1.jp.msn.co.id
 0.0.0.0 ads280dummy2.com
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adservice.google.co.jp
@@ -54000,7 +53969,7 @@
 0.0.0.0 adv.mobsmart.net
 0.0.0.0 advack.net
 0.0.0.0 advbanners.global.ssl.fastly.net
-0.0.0.0 advertising.jp.msn.com
+0.0.0.0 advertising.jp.msn.co.id
 0.0.0.0 advision-adnw.genieesspv.jp
 0.0.0.0 advisionapp.yicha.jp
 0.0.0.0 advisionclick.yicha.jp
@@ -57352,7 +57321,7 @@
 0.0.0.0 aquaticowl.com
 0.0.0.0 ar1nvz5.com
 0.0.0.0 aralego.com
-0.0.0.0 arc1.msn.com
+0.0.0.0 arc1.msn.co.id
 0.0.0.0 archswimming.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
@@ -58592,7 +58561,7 @@
 0.0.0.0 quisma.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 r.logrocket.io
-0.0.0.0 r.msn.com
+0.0.0.0 r.msn.co.id
 0.0.0.0 r.scoota.co
 0.0.0.0 radiate.com
 0.0.0.0 rads.alfamedia.pl
@@ -58917,7 +58886,7 @@
 0.0.0.0 tapinfluence.com
 0.0.0.0 tapjoy.com
 0.0.0.0 targad.de
-0.0.0.0 target.microsoft.com
+0.0.0.0 target.microsoft.co.id
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targeting.voxus.tv
@@ -63554,7 +63523,7 @@
 0.0.0.0 advertisespace.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.guildlaunch.net
-0.0.0.0 advertising.microsoft.com
+0.0.0.0 advertising.microsoft.co.id
 0.0.0.0 adverts.carltononline.com
 0.0.0.0 adview.ppro.de
 0.0.0.0 adviva.com
@@ -67433,7 +67402,7 @@
 0.0.0.0 ab.unbounce.com
 0.0.0.0 abutil01.touchcommerce.com
 0.0.0.0 abv3-tslogging.touchcommerce.com
-0.0.0.0 ac3.msn.com
+0.0.0.0 ac3.msn.co.id
 0.0.0.0 ac54-5a99-5148-10e1.reporo.net
 0.0.0.0 academy.manage.ensighten.com
 0.0.0.0 academy.taplytics.com
@@ -70748,7 +70717,7 @@
 0.0.0.0 cornerstonecu.com.102.112.2o7.net
 0.0.0.0 corn.honeytouch.bid
 0.0.0.0 corp-assets.triplelift.com
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.co.id
 0.0.0.0 corp.flurry.com
 0.0.0.0 corpgate.fwmrm.net
 0.0.0.0 corpgslb1.fwmrm.net
@@ -70757,7 +70726,7 @@
 0.0.0.0 corp.leanplum.com
 0.0.0.0 corp.outbrain.com
 0.0.0.0 corp.sonobi.com
-0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 corp.sts.microsoft.co.id
 0.0.0.0 corpweb02.fwmrm.net
 0.0.0.0 corpweb05.fwmrm.net
 0.0.0.0 correspond.tapjoy.com
@@ -71507,7 +71476,7 @@
 0.0.0.0 d-footwear.t.domdex.com
 0.0.0.0 dfpapi.doubleclick.net
 0.0.0.0 dfpdashboard.doubleclick.net
-0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 df.telemetry.microsoft.co.id
 0.0.0.0 d-furniture.t.domdex.com
 0.0.0.0 dfw.cbslocal.us.intellitxt.com
 0.0.0.0 dga.org.102.112.2o7.net
@@ -71522,7 +71491,7 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diageogreatbritainltd.d3.sc.omtrdc.net
 0.0.0.0 diagnostics-lp.inmobi.com
-0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.co.id
 0.0.0.0 dialin.vertamedia.com
 0.0.0.0 diamonddiaspora-d.openx.net
 0.0.0.0 diamondnorthcu.com.102.112.2o7.net
@@ -72960,7 +72929,7 @@
 0.0.0.0 feedback.getsocial.io
 0.0.0.0 feedback.miui.com
 0.0.0.0 feedback.powerfulcleaner.com
-0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.search.microsoft.co.id
 0.0.0.0 feedback.sokrati.com
 0.0.0.0 feedback.umeng.com
 0.0.0.0 feedback.webengage.com
@@ -74154,8 +74123,8 @@
 0.0.0.0 i18nmmstat.ucweb.com
 0.0.0.0 i1k2c.voluumtrk.com
 0.0.0.0 i1.onthe.io
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 i1.services.social.microsoft.co.id
+0.0.0.0 i1.services.social.microsoft.co.id.nsatc.net
 0.0.0.0 i-200-b-0-0-5-content-bundles-bench.utorrent.com
 0.0.0.0 i2.mouseflow.com
 0.0.0.0 i2.onthe.io
@@ -77537,8 +77506,8 @@
 0.0.0.0 obumobile1.d1.sc.omtrdc.net
 0.0.0.0 obzorsmi.mirtesen.ru
 0.0.0.0 obzorsobitii.mirtesen.ru
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.co.id
+0.0.0.0 oca.telemetry.microsoft.co.id.nsatc.net
 0.0.0.0 ocbc.demdex.net
 0.0.0.0 ocdc1.112.2o7.net
 0.0.0.0 oclc.org.102.112.2o7.net
@@ -79340,7 +79309,7 @@
 0.0.0.0 redirect.networkbench.com
 0.0.0.0 redirector.c.googlesyndication.com
 0.0.0.0 redirector.whosthat.mobi
-0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.co.id
 0.0.0.0 redir.snoobi.com
 0.0.0.0 redmi4a.new-free-offer.in
 0.0.0.0 redmine.smi2.net
@@ -80300,7 +80269,7 @@
 0.0.0.0 servicesv2.sokrati.com
 0.0.0.0 services.vertamedia.com
 0.0.0.0 services.videoplaza.tv
-0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.co.id
 0.0.0.0 services.wigzopush.com
 0.0.0.0 service.vp.videoplaza.tv
 0.0.0.0 se-showroom.cdn.videoplaza.tv
@@ -80320,8 +80289,8 @@
 0.0.0.0 settings-1476442757.mtraction.com
 0.0.0.0 settings-1479276883.mtraction.com
 0.0.0.0 settings.outbrain.com
-0.0.0.0 settings-sandbox.data.microsoft.com
-0.0.0.0 settings-win-ppe.data.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.co.id
+0.0.0.0 settings-win-ppe.data.microsoft.co.id
 0.0.0.0 setup.demandbase.com
 0.0.0.0 se-tv4.cdn.videoplaza.tv
 0.0.0.0 se-tv4.llnw.videoplaza.tv
@@ -80827,8 +80796,8 @@
 0.0.0.0 sql1.brandreachsys.com
 0.0.0.0 sql2.brandreachsys.com
 0.0.0.0 sql.treasuredata.com
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.df.telemetry.microsoft.co.id
+0.0.0.0 sqm.telemetry.microsoft.co.id.nsatc.net
 0.0.0.0 sqnzz.ouasflpydty21tf.bapb.gdn
 0.0.0.0 sqrt.onthe.io
 0.0.0.0 squeamishscarecrow.com
@@ -81671,7 +81640,7 @@
 0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 stats.cnzz.com
 0.0.0.0 stats.exoclick.com
-0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.co.id
 0.0.0.0 stats.juicyads.com
 0.0.0.0 stat.smi2.net
 0.0.0.0 stats.norton.com
@@ -81855,7 +81824,7 @@
 0.0.0.0 survey.chartbeat.net
 0.0.0.0 survey.umeng.com
 0.0.0.0 survey.unbounce.com
-0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 survey.watson.microsoft.co.id
 0.0.0.0 survey.webengage.com
 0.0.0.0 s-usc1c-nss-218.firebaseio.com
 0.0.0.0 susquehannabank.d1.sc.omtrdc.net
@@ -82112,7 +82081,7 @@
 0.0.0.0 tele2.112.2o7.net
 0.0.0.0 tele2se.widget.criteo.com
 0.0.0.0 telecom.co.nz.102.112.2o7.net
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telecommand.telemetry.microsoft.co.id.nsatc.net
 0.0.0.0 telefonicaespana.tt.omtrdc.net
 0.0.0.0 telefonica.inq.com
 0.0.0.0 telefonicauk.d3.sc.omtrdc.net
@@ -82120,8 +82089,8 @@
 0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
 0.0.0.0 telelangue.widget.criteo.com
 0.0.0.0 telemetry.layer.com
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 telemetry.microsoft.co.id
+0.0.0.0 telemetry.urs.microsoft.co.id
 0.0.0.0 telenor-analytics.localytics.com
 0.0.0.0 telenor-creatives.53.localytics.com
 0.0.0.0 telepictures.sl.advertising.com
@@ -83039,7 +83008,7 @@
 0.0.0.0 v12.cnzz.com
 0.0.0.0 v13.cnzz.com
 0.0.0.0 v14.cnzz.com
-0.0.0.0 v20.vortex-win.data.microsoft.com
+0.0.0.0 v20.vortex-win.data.microsoft.co.id
 0.0.0.0 v2.cnzz.com
 0.0.0.0 v2.moatads.com
 0.0.0.0 v2.revcontent.com
@@ -83346,9 +83315,9 @@
 0.0.0.0 voprosotvet.mirtesen.ru
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.co.id
+0.0.0.0 vortex-sandbox.data.microsoft.co.id
+0.0.0.0 vortex-win.data.microsoft.co.id
 0.0.0.0 vor-v-zakone09.mirtesen.ru
 0.0.0.0 vouchercodes.co.uk.d1.sc.omtrdc.net
 0.0.0.0 voxel.mpx.mopub.com
@@ -83472,9 +83441,9 @@
 0.0.0.0 waterscorporation.hb.omtrdc.net
 0.0.0.0 waterstreetpartnersllc.d1.sc.omtrdc.net
 0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.microsoft.co.id
+0.0.0.0 watson.ppe.telemetry.microsoft.co.id
+0.0.0.0 watson.telemetry.microsoft.co.id.nsatc.net
 0.0.0.0 wattpad-d.openx.net
 0.0.0.0 waudist.tynt.com
 0.0.0.0 wausaudailyherald.com.ssl.d1.sc.omtrdc.net
@@ -83495,7 +83464,7 @@
 0.0.0.0 web2carz.t.domdex.com
 0.0.0.0 web3.adriver.ru
 0.0.0.0 web.adriver.ru
-0.0.0.0 webapps.microsoft.com.102.112.2o7.net
+0.0.0.0 webapps.microsoft.co.id.102.112.2o7.net
 0.0.0.0 webcast.rubiconproject.com
 0.0.0.0 web-ci.urbanairship.com
 0.0.0.0 webconf.touchcommerce.com
@@ -90197,8 +90166,8 @@
 0.0.0.0 track.tcppu.com
 0.0.0.0 sapi.wynk.in
 0.0.0.0 www.pubmine.com
-0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
-0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 cy2.vortex.data.microsoft.co.id.akadns.net
+0.0.0.0 modern.watson.data.microsoft.co.id.akadns.net
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net
@@ -90961,9 +90930,9 @@
 0.0.0.0 tracking02.ad4game.com
 0.0.0.0 traffic.ad4game.com
 0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
-0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 co4.telecommand.telemetry.microsoft.co.id
 0.0.0.0 cs1137.wpc.gammacdn.net
-0.0.0.0 modern.watson.data.microsoft.com
+0.0.0.0 modern.watson.data.microsoft.co.id
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 tracking-opi.fonpit.de
 0.0.0.0 www.heapanalytics.com
@@ -91359,7 +91328,7 @@
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 img-cdn.wshareit.com
 0.0.0.0 static.trafficjunky.com
-0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.co.id
 0.0.0.0 abc5.adtelligent.com
 0.0.0.0 abc4.adtelligent.com
 0.0.0.0 abc3.adtelligent.com
@@ -95850,7 +95819,7 @@
 0.0.0.0 ua-campaign-creation-api.voodoo.io
 0.0.0.0 ua-campaign-creation-ui.voodoo.io
 0.0.0.0 v2-publidash-api.voodoo.io
-0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
+0.0.0.0 co4.telecommand.telemetry.microsoft.co.id.akadns.net
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 logfiles-va-zd1.zoom.us
 0.0.0.0 ads.foodieblogroll.com
@@ -100699,23 +100668,23 @@
 0.0.0.0 embrace.io
 0.0.0.0 go.embrace.io
 0.0.0.0 go2.embrace.io
-0.0.0.0 telemetry.microsoft.com.nsatc.net
-0.0.0.0 alpha.telemetry.microsoft.com
-0.0.0.0 oca.alpha.telemetry.microsoft.com
-0.0.0.0 oca7.alpha.telemetry.microsoft.com
-0.0.0.0 sqm.alpha.telemetry.microsoft.com
-0.0.0.0 sqm7.alpha.telemetry.microsoft.com
-0.0.0.0 telecommand.alpha.telemetry.microsoft.com
-0.0.0.0 watson.alpha.telemetry.microsoft.com
-0.0.0.0 watson2.alpha.telemetry.microsoft.com
-0.0.0.0 watson7.alpha.telemetry.microsoft.com
-0.0.0.0 wer.alpha.telemetry.microsoft.com
-0.0.0.0 responses.df.telemetry.microsoft.com
-0.0.0.0 telecommand.df.telemetry.microsoft.com
-0.0.0.0 watson.df.telemetry.microsoft.com
-0.0.0.0 kmwatsonc.telemetry.microsoft.com
-0.0.0.0 clouddc2.syslogagent.telemetry.microsoft.com
-0.0.0.0 umwatsonc.telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.co.id.nsatc.net
+0.0.0.0 alpha.telemetry.microsoft.co.id
+0.0.0.0 oca.alpha.telemetry.microsoft.co.id
+0.0.0.0 oca7.alpha.telemetry.microsoft.co.id
+0.0.0.0 sqm.alpha.telemetry.microsoft.co.id
+0.0.0.0 sqm7.alpha.telemetry.microsoft.co.id
+0.0.0.0 telecommand.alpha.telemetry.microsoft.co.id
+0.0.0.0 watson.alpha.telemetry.microsoft.co.id
+0.0.0.0 watson2.alpha.telemetry.microsoft.co.id
+0.0.0.0 watson7.alpha.telemetry.microsoft.co.id
+0.0.0.0 wer.alpha.telemetry.microsoft.co.id
+0.0.0.0 responses.df.telemetry.microsoft.co.id
+0.0.0.0 telecommand.df.telemetry.microsoft.co.id
+0.0.0.0 watson.df.telemetry.microsoft.co.id
+0.0.0.0 kmwatsonc.telemetry.microsoft.co.id
+0.0.0.0 clouddc2.syslogagent.telemetry.microsoft.co.id
+0.0.0.0 umwatsonc.telemetry.microsoft.co.id
 0.0.0.0 ewiiilpl.yyjvimo.com
 0.0.0.0 hrqfupwz.yyjvimo.com
 0.0.0.0 pkaipgyl.yyjvimo.com

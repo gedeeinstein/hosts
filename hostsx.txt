@@ -1100,13 +1100,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 enabler.datalake.mediaset.it
 0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 medsource.top
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 v10c.events.data.microsoft.com
-0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
+
+
 0.0.0.0 ns1.microsoftonlines.net
 0.0.0.0 ns2.microsoftonlines.net
 0.0.0.0 update.microsoftonlines.net
@@ -6960,8 +6955,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fabric.io
 
 # [facebook.com]
-0.0.0.0 an.facebook.com
-0.0.0.0 pixel.facebook.com
 
 # [fam-ad.com]
 0.0.0.0 fam-ad.com
@@ -6973,8 +6966,6 @@ ff02::3 ip6-allhosts
 # [mparticle.map.fastly.net]
 0.0.0.0 mparticle.map.fastly.net
 
-# [fbcdn.net]
-0.0.0.0 sonar-iad.xx.fbcdn.net
 
 # [fc2.com]
 0.0.0.0 affiliate.fc2.com
@@ -9435,8 +9426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssp.send.microadinc.com
 
 # [microsoft.com]
-0.0.0.0 bingads.microsoft.com
-0.0.0.0 advertise.bingads.microsoft.com
 
 # [midasplayer.com]
 0.0.0.0 adtrack1.midasplayer.com
@@ -9979,19 +9968,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.mradx.net
 0.0.0.0 r0.mradx.net
 
-# [msads.net]
-0.0.0.0 msads.net
-
-# [msn.com]
-0.0.0.0 ads.msn.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 b.ads1.msn.com
-0.0.0.0 ads2.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 c.msn.com
-0.0.0.0 mobileads.msn.com
-0.0.0.0 rads.msn.com
-0.0.0.0 srtb.msn.com
 
 # [msstatic.com]
 0.0.0.0 sdkconf.msstatic.com
@@ -14506,6 +14482,7 @@ ff02::3 ip6-allhosts
 # [youtube.com]
 0.0.0.0 ads.youtube.com
 0.0.0.0 s.youtube.com
+0.0.0.0 m.youtube.com
 
 # [yyapi.net]
 0.0.0.0 global.yyapi.net
@@ -15936,7 +15913,7 @@ ff02::3 ip6-allhosts
 
 # Start add.Risk
 
-0.0.0.0 0.r.msn.com
+
 0.0.0.0 050003.voodoo.com
 0.0.0.0 050005.voodoo.com
 0.0.0.0 0koryu0.easter.ne.jp
@@ -17488,7 +17465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dougmlee.com
 0.0.0.0 www.dowdenphotography.com
 0.0.0.0 www.down1oads.com
-0.0.0.0 www.downloads-whatsapp.com
+
 0.0.0.0 www.downloadwarez.org
 0.0.0.0 www.dp-medien.eu
 0.0.0.0 www.drivotracker.com
@@ -20505,7 +20482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 omni.dispatch.com
 0.0.0.0 omni.feeln.com
 0.0.0.0 omni.hallmarkecards.com
-0.0.0.0 omni.ninemsn.com.au
+
 0.0.0.0 omni.pemco.com
 0.0.0.0 omni.skinmedica.com
 0.0.0.0 omnis.skinmedica.com
@@ -22681,7 +22658,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smeasurement.fcc-fac.ca
 0.0.0.0 smeasurement.infiniti.ca
 0.0.0.0 smeasurement.nissan.ca
-0.0.0.0 smetric.ads.microsoft.com
+
 0.0.0.0 smetric.bahamabreeze.com
 0.0.0.0 smetric.betway.com
 0.0.0.0 smetric.biogen.com
@@ -63177,7 +63154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.gumgum.com
 0.0.0.0 c.gumgum.com
 0.0.0.0 cdn.gumgum.com
-# 0.0.0.0 www.sdad.guru #[affects msn.com]
+# 0.0.0.0 www.sdad.guru #[affects hehehemsn.co.id]
 0.0.0.0 beacon.gutefrage.net
 # [H]
 0.0.0.0 adserver.hardwareanalysis.com
@@ -66480,7 +66457,7 @@ ff02::3 ip6-allhosts
 # [Hostway][AS20401][216.36.192.0 - 216.36.255.255]
 0.0.0.0 ads.worddictionary.co.uk
 # [Hostworks][AS9667][202.58.32.0 - 202.58.63.255]
-0.0.0.0 ads.ninemsn.com.au
+0.0.0.0 ads.ninehehehemsn.co.id.au
 # [HTTPool][AS8558][91.209.18.0 - 91.209.18.255]
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-bg.ads.httpool.com
@@ -67092,7 +67069,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 a.global.msads.net
 0.0.0.0 global.msads.net
-0.0.0.0 ads1.msn.com
+
 0.0.0.0 cdn.promo.pimproll.com
 0.0.0.0 cdn.g.promosrv.com
 0.0.0.0 cdn.redlightcenter.com
@@ -67273,9 +67250,9 @@ ff02::3 ip6-allhosts
 # [Microsoft][AS8069][111.221.16.0 - 111.221.31.255]
 0.0.0.0 iact.atdmt.com
 # [Microsoft][AS8075][131.253.12.0 - 131.253.18.255]
-0.0.0.0 flex.msn.com
+
 # [Microsoft][AS8075][137.116.0.0 - 137.116.255.255]
-0.0.0.0 otf.msn.com
+
 0.0.0.0 trafficgateway.research-int.se
 # [Microsoft][AS8075][137.135.0.0 - 137.135.255.255]
 0.0.0.0 my.trackjs.com
@@ -67296,8 +67273,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bidclix.net
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 www.deepmetrix.com
-0.0.0.0 adsyndication.msn.com
-0.0.0.0 c.no.msn.com
+
+
 0.0.0.0 log.newsvine.com  #[WebBug]
 # [Microsoft][AS8075][23.96.0.0 - 23.103.255.255]
 0.0.0.0 e3.adpushup.com
@@ -67317,17 +67294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.ads1.msads.net
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 analytics.msn.com
-0.0.0.0 ads.eu.msn.com
-0.0.0.0 images.adsyndication.msn.com
-0.0.0.0 analytics.msnbc.msn.com
-0.0.0.0 blu.mobileads.msn.com
-0.0.0.0 col.mobileads.msn.com
-0.0.0.0 popup.msn.com
-0.0.0.0 analytics.r.msn.com
-# 0.0.0.0  rad.msn.com #[affects MSN Messenger]
-0.0.0.0 rmads.msn.com
-0.0.0.0 rmads.eu.msn.com
+
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 msn.serving-sys.com
 # [Microsoft][AS8075][70.37.0.0 - 70.37.191.255]
@@ -68318,7 +68285,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookies.cmpnet.com
 # [Qwest / Opinion Lab][AS209][66.77.28.64 - 66.77.28.127]
 0.0.0.0 ccc00.opinionlab.com
-0.0.0.0 ccc01.opinionlab.com  #[msn.com]
+0.0.0.0 ccc01.opinionlab.com  #[hehehemsn.co.id]
 0.0.0.0 rate.opinionlab.com
 0.0.0.0 www.opinionlab.com
 # [Qwest / Akamai][AS209][67.148.147.0 - 67.148.147.255]
@@ -74153,7 +74120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.ampry.com
 0.0.0.0 plus.addkt.com
 0.0.0.0 prebid-server-production.herokuapp.com
-0.0.0.0 privatestats.whatsapp.net
+
 0.0.0.0 programmatic.doceree.com
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 scripts.simpleanalyticscdn.com
@@ -74176,7 +74143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 userreport.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vms.boldchat.com
-0.0.0.0 web.vortex.data.msn.com
+
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.increaserev.com
@@ -74372,7 +74339,7 @@ ff02::3 ip6-allhosts
 # www.gourmetads.com
 0.0.0.0 bcdn.grmtas.com
 
-# www.msn.com
+# www.hehehemsn.co.id
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 visitor.omnitagjs.com
 
@@ -74818,7 +74785,7 @@ ff02::3 ip6-allhosts
 # may provide you with services you like.
 
 #<maybe-spy>
-#0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
+#0.0.0.0 auto.search.hehehemsn.co.id  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
 #0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
@@ -74906,8 +74873,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 alert.mac-notification.com
 0.0.0.0 alpha.easy-hit-counters.com
 0.0.0.0 amateur.xxxcounter.com
-0.0.0.0 amer.hops.glbdns.microsoft.com
-0.0.0.0 amer.rel.msn.com
+
+
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.myfinances.com
@@ -74918,7 +74885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antivirus-message.com
-0.0.0.0 apac.rel.msn.com
+
 0.0.0.0 api.behavioralengine.com
 0.0.0.0 api.bizographics.com
 0.0.0.0 api.murdoog.com
@@ -75269,7 +75236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ehg.fedex.com
 0.0.0.0 eitbglobal.ojdinteractiva.com
 0.0.0.0 email.positionly.com
-0.0.0.0 emea.rel.msn.com
+
 0.0.0.0 engine.cmmeglobal.com
 0.0.0.0 entry-stats.huffingtonpost.com
 0.0.0.0 environmentalgraffiti.uk.intellitxt.com
@@ -76030,7 +75997,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.mailtracker.in
 0.0.0.0 tracking.marketviaemail.net
 0.0.0.0 tracking.motleyfool.com
-0.0.0.0 tracking.msadcenter.msn.com
+
 0.0.0.0 tracking.murdoog.com
 0.0.0.0 tracking.myunidays.com
 0.0.0.0 tracking.nesox.com
@@ -76089,7 +76056,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u810.15.spylog.com
 0.0.0.0 u920.31.spylog.com
 0.0.0.0 u977.40.spylog.com
-0.0.0.0 udc.msn.com
+
 0.0.0.0 uip.semasio.net
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.sitestat.com
@@ -78276,13 +78243,13 @@ ff02::3 ip6-allhosts
 #<ad-sites>
 #<maybe-ads>
 #0.0.0.0 adfarm.mediaplex.com		# may interfere with ebay
-#0.0.0.0 ads.msn.com			#This may cause problems with zone.msn.com
+
 #0.0.0.0 ak.imgfarm.com		# may cause problems with iwon.com
 #0.0.0.0 click.linksynergy.com
-#0.0.0.0 global.msads.net		#This may cause problems with zone.msn.com
+#0.0.0.0 global.msads.net		#This may cause problems with zone.hehehemsn.co.id
 #0.0.0.0 lads.myspace.com		# blocks myspace media/video players
 #0.0.0.0 refer.ccbill.com		#affiliate program, to add it back, remove the #
-#0.0.0.0 rmads.msn.com			#This may cause problems with zone.msn.com
+
 #0.0.0.0 www.apmebf.com		#qksrv
 #0.0.0.0 www.tkqlhce.com		#qksrv
 #0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
@@ -78421,7 +78388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
+
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.tadd.react2media.com
@@ -80743,7 +80710,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.a2gw.com
 0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.admob.com
-0.0.0.0 b.ads2.msn.com
+
 0.0.0.0 b.am15.net
 0.0.0.0 b.as-us.falkag.net
 0.0.0.0 b.company-target.com
@@ -80752,7 +80719,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
-0.0.0.0 b.rad.msn.com
+
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1.adbrite.com
 0.0.0.0 b1.azjmp.com
@@ -81053,54 +81020,54 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.adroll.com
 0.0.0.0 c.am10.ru
 0.0.0.0 c.anytrx.com
-0.0.0.0 c.ar.msn.com
-0.0.0.0 c.as-us.falkag.net
-0.0.0.0 c.at.msn.com
-0.0.0.0 c.baidu.com
-0.0.0.0 c.be.msn.com
-0.0.0.0 c.bebi.com
-0.0.0.0 c.blogads.com
-0.0.0.0 c.br.msn.com
-0.0.0.0 c.ca.msn.com
-0.0.0.0 c.cl.msn.com
-0.0.0.0 c.company-target.com
-0.0.0.0 c.de.msn.com
-0.0.0.0 c.dk.msn.com
-0.0.0.0 c.dynad.net
-0.0.0.0 c.eblastengine.com
-0.0.0.0 c.es.msn.com
-0.0.0.0 c.fi.msn.com
-0.0.0.0 c.fr.msn.com
-0.0.0.0 c.gr.msn.com
-0.0.0.0 c.hk.msn.com
-0.0.0.0 c.id.msn.com
-0.0.0.0 c.ie.msn.com
-0.0.0.0 c.il.msn.com
-0.0.0.0 c.imedia.cz
-0.0.0.0 c.in.msn.com
-0.0.0.0 c.it.msn.com
-0.0.0.0 c.jp.msn.com
-0.0.0.0 c.latam.msn.com
-0.0.0.0 c.lomadee.com
-0.0.0.0 c.media-dl.co
-0.0.0.0 c.mttwtrack.com
-0.0.0.0 c.my.msn.com
-0.0.0.0 c.ninemsn.com.au
-0.0.0.0 c.nl.msn.com
-0.0.0.0 c.novostimira.biz
-0.0.0.0 c.ph.msn.com
-0.0.0.0 c.prodigy.msn.com
-0.0.0.0 c.pt.msn.com
-0.0.0.0 c.ru.msn.com
-0.0.0.0 c.se.msn.com
-0.0.0.0 c.seznam.cz
-0.0.0.0 c.sg.msn.com
-0.0.0.0 c.silvinst.com
-0.0.0.0 c.th.msn.com
-0.0.0.0 c.tr.msn.com
-0.0.0.0 c.tw.msn.com
-0.0.0.0 c.uk.msn.com
-0.0.0.0 c.za.msn.com
+#0.0.0.0 c.ar.hehehemsn.co.id
+#0.0.0.0 c.as-us.falkag.net
+#0.0.0.0 c.at.hehehemsn.co.id
+#0.0.0.0 c.baidu.com
+#0.0.0.0 c.be.hehehemsn.co.id
+#0.0.0.0 c.bebi.com
+#0.0.0.0 c.blogads.com
+#0.0.0.0 c.br.hehehemsn.co.id
+#0.0.0.0 c.ca.hehehemsn.co.id
+#0.0.0.0 c.cl.hehehemsn.co.id
+#0.0.0.0 c.company-target.com
+#0.0.0.0 c.de.hehehemsn.co.id
+#0.0.0.0 c.dk.hehehemsn.co.id
+#0.0.0.0 c.dynad.net
+#0.0.0.0 c.eblastengine.com
+#0.0.0.0 c.es.hehehemsn.co.id
+#0.0.0.0 c.fi.hehehemsn.co.id
+#0.0.0.0 c.fr.hehehemsn.co.id
+#0.0.0.0 c.gr.hehehemsn.co.id
+#0.0.0.0 c.hk.hehehemsn.co.id
+#0.0.0.0 c.id.hehehemsn.co.id
+#0.0.0.0 c.ie.hehehemsn.co.id
+#0.0.0.0 c.il.hehehemsn.co.id
+#0.0.0.0 c.imedia.cz
+#0.0.0.0 c.in.hehehemsn.co.id
+#0.0.0.0 c.it.hehehemsn.co.id
+#0.0.0.0 c.jp.hehehemsn.co.id
+#0.0.0.0 c.latam.hehehemsn.co.id
+#0.0.0.0 c.lomadee.com
+#0.0.0.0 c.media-dl.co
+#0.0.0.0 c.mttwtrack.com
+#0.0.0.0 c.my.hehehemsn.co.id
+#0.0.0.0 c.ninehehehemsn.co.id.au
+#0.0.0.0 c.nl.hehehemsn.co.id
+#0.0.0.0 c.novostimira.biz
+#0.0.0.0 c.ph.hehehemsn.co.id
+#0.0.0.0 c.prodigy.hehehemsn.co.id
+#0.0.0.0 c.pt.hehehemsn.co.id
+#0.0.0.0 c.ru.hehehemsn.co.id
+#0.0.0.0 c.se.hehehemsn.co.id
+#0.0.0.0 c.seznam.cz
+#0.0.0.0 c.sg.hehehemsn.co.id
+#0.0.0.0 c.silvinst.com
+#0.0.0.0 c.th.hehehemsn.co.id
+#0.0.0.0 c.tr.hehehemsn.co.id
+#0.0.0.0 c.tw.hehehemsn.co.id
+#0.0.0.0 c.uk.hehehemsn.co.id
+#0.0.0.0 c.za.hehehemsn.co.id
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c11370896.c.youradexchange.com
@@ -81757,7 +81724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ds.onet.pl
 0.0.0.0 dt.linkpulse.com
 0.0.0.0 dtm.advertising.com
-0.0.0.0 dub.mobileads.msn.com
+
 0.0.0.0 dy.admerize.be
 0.0.0.0 dylanwong.com
 0.0.0.0 dyn-downloads.com
@@ -83234,7 +83201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
-0.0.0.0 mobileleads.msn.com
+
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
@@ -83275,7 +83242,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ms-break.com
 0.0.0.0 ms-debug-services.com
 0.0.0.0 ms-downloading.com
-0.0.0.0 ms-en-microsoft.com
+
 0.0.0.0 ms-global-store.com
 0.0.0.0 ms-home-live.com
 0.0.0.0 ms-home-store.com
@@ -84095,7 +84062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
 0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
+
 0.0.0.0 radaronline.advertserve.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
@@ -88552,19 +88519,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
-0.0.0.0 g.msn.com
-0.0.0.0 h1.msn.com
-0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 live.rads.msn.com
-0.0.0.0 msnbot-65-55-108-23.search.msn.com
-0.0.0.0 preview.msn.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
+
+
 0.0.0.0 so.2mdn.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.flashtalking.com
-0.0.0.0 statsfe2.ws.microsoft.com
+
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 wes.df.telemetry.microsoft.com
+
 #</Windows10>
 
 # Acknowledgements
@@ -88795,7 +88757,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.speead.jp
 0.0.0.0 ads.sprout-ad.com
 0.0.0.0 ads.uuuu.link
-0.0.0.0 ads1.jp.msn.com
+
 0.0.0.0 ads280dummy2.com
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adservice.google.co.jp
@@ -88816,7 +88778,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.mobsmart.net
 0.0.0.0 advack.net
 0.0.0.0 advbanners.global.ssl.fastly.net
-0.0.0.0 advertising.jp.msn.com
+0.0.0.0 advertising.jp.hehehemsn.co.id
 0.0.0.0 advision-adnw.genieesspv.jp
 0.0.0.0 advisionapp.yicha.jp
 0.0.0.0 advisionclick.yicha.jp
@@ -89751,7 +89713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srt-srv.xlisting.jp
 0.0.0.0 srv1.aaacompany.net
 0.0.0.0 ssend.microad.jp
-0.0.0.0 ssl-google-analytics.l.google.com
+
 0.0.0.0 ssl.socdm.com
 0.0.0.0 ssl.webtracker.jp
 0.0.0.0 ssp-sync.i-mobile.co.jp
@@ -92180,7 +92142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aquaticowl.com
 0.0.0.0 ar1nvz5.com
 0.0.0.0 aralego.com
-0.0.0.0 arc1.msn.com
+
 0.0.0.0 archswimming.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
@@ -93441,7 +93403,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quisma.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 r.logrocket.io
-0.0.0.0 r.msn.com
+
 0.0.0.0 r.scoota.co
 0.0.0.0 radiate.com
 0.0.0.0 rads.alfamedia.pl
@@ -93771,7 +93733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tapinfluence.com
 0.0.0.0 tapjoy.com
 0.0.0.0 targad.de
-0.0.0.0 target.microsoft.com
+
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targeting.voxus.tv

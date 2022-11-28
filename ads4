@@ -1,13 +1,4 @@
-# Host file to block ads, tracking and more! Updated daily
-# Homepage: https://github.com/anudeepND/blacklist
-# Mirror: https://hosts.anudeep.me/mirror/
-# Release: https://github.com/anudeepND/blacklist/releases
-# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-# Title: Anudeep's Blacklist
-# Expires: 1 days
-# Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,284
-# ===================================================================
+
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
 0.0.0.0 004-btr-463.mktoresp.com
@@ -7620,7 +7611,7 @@
 0.0.0.0 cornerstonecu.com.102.112.2o7.net
 0.0.0.0 corn.honeytouch.bid
 0.0.0.0 corp-assets.triplelift.com
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+
 0.0.0.0 corp.flurry.com
 0.0.0.0 corpgate.fwmrm.net
 0.0.0.0 corpgslb1.fwmrm.net
@@ -7629,7 +7620,7 @@
 0.0.0.0 corp.leanplum.com
 0.0.0.0 corp.outbrain.com
 0.0.0.0 corp.sonobi.com
-0.0.0.0 corp.sts.microsoft.com
+
 0.0.0.0 corpweb02.fwmrm.net
 0.0.0.0 corpweb05.fwmrm.net
 0.0.0.0 correspond.tapjoy.com
@@ -8489,7 +8480,7 @@
 0.0.0.0 dfpapi.doubleclick.net
 0.0.0.0 dfpdashboard.doubleclick.net
 0.0.0.0 dfp.doubleclick.net
-0.0.0.0 df.telemetry.microsoft.com
+
 0.0.0.0 d-furniture.t.domdex.com
 0.0.0.0 dfw.cbslocal.us.intellitxt.com
 0.0.0.0 dga.org.102.112.2o7.net
@@ -8504,7 +8495,7 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diageogreatbritainltd.d3.sc.omtrdc.net
 0.0.0.0 diagnostics-lp.inmobi.com
-0.0.0.0 diagnostics.support.microsoft.com
+
 0.0.0.0 dialin.vertamedia.com
 0.0.0.0 diamonddiaspora-d.openx.net
 0.0.0.0 diamondnorthcu.com.102.112.2o7.net
@@ -10096,7 +10087,7 @@
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.miui.com
 0.0.0.0 feedback.powerfulcleaner.com
-0.0.0.0 feedback.search.microsoft.com
+
 0.0.0.0 feedback.sokrati.com
 0.0.0.0 feedback.uc.cn
 0.0.0.0 feedback.umeng.com
@@ -11497,7 +11488,7 @@
 0.0.0.0 i1.dl-ad.com
 0.0.0.0 i1k2c.voluumtrk.com
 0.0.0.0 i1.onthe.io
-0.0.0.0 i1.services.social.microsoft.com
+
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 i-200-b-0-0-5-content-bundles-bench.utorrent.com
 0.0.0.0 i2.mouseflow.com
@@ -41226,25 +41217,7 @@
 0.0.0.0 embrace.io
 0.0.0.0 go.embrace.io
 0.0.0.0 go2.embrace.io
-0.0.0.0 telemetry.microsoft.com.nsatc.net
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 alpha.telemetry.microsoft.com
-0.0.0.0 oca.alpha.telemetry.microsoft.com
-0.0.0.0 oca7.alpha.telemetry.microsoft.com
-0.0.0.0 sqm.alpha.telemetry.microsoft.com
-0.0.0.0 sqm7.alpha.telemetry.microsoft.com
-0.0.0.0 telecommand.alpha.telemetry.microsoft.com
-0.0.0.0 watson.alpha.telemetry.microsoft.com
-0.0.0.0 watson2.alpha.telemetry.microsoft.com
-0.0.0.0 watson7.alpha.telemetry.microsoft.com
-0.0.0.0 wer.alpha.telemetry.microsoft.com
-0.0.0.0 responses.df.telemetry.microsoft.com
-0.0.0.0 telecommand.df.telemetry.microsoft.com
-0.0.0.0 watson.df.telemetry.microsoft.com
-0.0.0.0 kmwatsonc.telemetry.microsoft.com
-0.0.0.0 clouddc2.syslogagent.telemetry.microsoft.com
-0.0.0.0 umwatsonc.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
+
 0.0.0.0 ewiiilpl.yyjvimo.com
 0.0.0.0 hrqfupwz.yyjvimo.com
 0.0.0.0 pkaipgyl.yyjvimo.com
@@ -41893,7 +41866,7 @@
 0.0.0.0 uses.lemmatechnologies.com
 0.0.0.0 sg.ads.lemmatechnologies.com
 0.0.0.0 track.lemmatechnologies.com
-0.0.0.0 vortex.data.microsoft.com
+
 0.0.0.0 eu1-spiky.wzrkt.com
 0.0.0.0 www.adsrvr.org
 0.0.0.0 a.adsrvr.org
