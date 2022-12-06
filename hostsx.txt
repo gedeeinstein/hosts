@@ -7414,8 +7414,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 
-# [googleusercontent.com]
-0.0.0.0 displayads-formats.googleusercontent.com
+# [ffbcc.co.id]
+0.0.0.0 displayads-formats.ffbcc.co.id
 
 # [gop1.co]
 0.0.0.0 gop1.co
@@ -27572,7 +27572,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sept-marketing.net.daraz.com
 0.0.0.0 septwww.partner.net.daraz.com
 0.0.0.0 smartbroker.efscle.com
-0.0.0.0 sonar6-sea1-1.xx.fbcdn.net.iberostar.com
+0.0.0.0 sonar6-sea1-1.xx.ffbcc.co.id.iberostar.com
 0.0.0.0 springmarketing.net.daraz.com
 0.0.0.0 srv.net.daraz.com
 0.0.0.0 ssl-www.partner.net.daraz.com
@@ -54443,7 +54443,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.facebook-informacje24.eu
 0.0.0.0 www.facebook-live24.eu
 0.0.0.0 www.facebook-pl.eu
-0.0.0.0 www.facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
+0.0.0.0 wwwffbcc.co.id-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fajny-bon.click
 0.0.0.0 www.faksowy.is-best.net
@@ -55033,7 +55033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.inpost.ua-dostawka.xyz
 0.0.0.0 www.inpost.wygeneruj-kod.me
 0.0.0.0 www.instagramverification-center.com
-0.0.0.0 www.instagram.com.ukradene-slike.cf
+0.0.0.0 wwwffbcc.co.id.ukradene-slike.cf
 0.0.0.0 www.insta-support.org
 0.0.0.0 www.instytut-medyczny24.com
 0.0.0.0 www.interia-pl.website
@@ -80454,7 +80454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliate.cfdebt.com
 0.0.0.0 affiliate.exabytes.com.my
 0.0.0.0 affiliate.fr.espotting.com
-0.0.0.0 affiliate.googleusercontent.com
+0.0.0.0 affiliate.ffbcc.co.id
 0.0.0.0 affiliate.hbytracker.com
 0.0.0.0 affiliate.kitapyurdu.com
 0.0.0.0 affiliate.mlntracker.com
