@@ -12,9 +12,9 @@
 #
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
+0.0.0.0 localhost
+0.0.0.0 localhost.localdomain
+0.0.0.0 local
 192.168.1.240 kapitmas.xxx
 0.0.0.0 0.0.0.0
 
@@ -43,16 +43,16 @@
 
 ## SPOTIFY LIST ADS 
 ##
-127.0.0.1 media-match.com
-127.0.0.1 adclick.g.doublecklick.net
-127.0.0.1 www.googleadservices.com
-127.0.0.1 open.spotify.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 desktop.spotify.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 audio2.spotify.com
-127.0.0.1 www.omaze.com
+0.0.0.0 media-match.com
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 www.googleadservices.com
+0.0.0.0 open.spotify.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 desktop.spotify.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 audio2.spotify.com
+0.0.0.0 www.omaze.com
 0.0.0.0 omaze.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 upgrade.spotify.com
