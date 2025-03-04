@@ -1,0 +1,61 @@
+{
+  "policies": {
+    "DisablePrivateBrowsing": true,
+    "BlockAboutConfig": true,
+    "DisableFirefoxAccounts": true,
+    "BlockAboutAddons": true,
+    "DisableSafeMode": false,
+    "DisableTelemetry": true,
+    "BackgroundAppUpdate": false,
+    "DNSOverHTTPS": {
+      "Enabled": false,
+      "ProviderURL": "https://cloudflare-dns.com/dns-query",
+      "Locked": true,
+      "ExcludedDomains": ["kapitmas.com"],
+      "Fallback": true
+    },
+    "HttpsOnlyMode": "force_enabled",
+    "DisableProfileImport": true,
+    "DisableAppUpdate": true,
+    "HardwareAcceleration": false,
+    "TranslateEnabled": false,
+    "EnableTrackingProtection": {
+      "Value": false,
+      "Locked": true,
+      "Cryptomining": false,
+      "Fingerprinting": true,
+      "Exceptions": ["https://kapitmas.com"]
+    },
+    "UserMessaging": {
+      "ExtensionRecommendations": false,
+      "FeatureRecommendations": false,
+      "UrlbarInterventions": false,
+      "SkipOnboarding": true,
+      "MoreFromMozilla": false,
+      "FirefoxLabs": false,
+      "Locked": true
+    },
+    "Proxy": {
+      "Mode": "none",
+      "Locked": true,
+      "HTTPProxy": "hostname",
+      "UseHTTPProxyForAllProtocols": false,
+      "SSLProxy": "hostname",
+      "FTPProxy": "hostname",
+      "SOCKSProxy": "hostname",
+      "SOCKSVersion": 5,
+      "Passthrough": "<local>",
+      "AutoConfigURL": "https://cloudflare-dns.com/dns-query",
+      "AutoLogin": false,
+      "UseProxyForDNS": false
+    },
+    "SanitizeOnShutdown": {
+      "Cache": false,
+      "Cookies":false,
+      "History": false,
+      "Sessions": false,
+      "SiteSettings": false,
+      "Locked": true
+    }
+  }
+}
